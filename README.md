@@ -9,15 +9,12 @@ To-Do-APP foi feito com a stack MERN com intuito de aprendizado nessas tecnologi
 <img src=https://i.imgur.com/voNjz9K.png>
 
 # Tecnologias utilizadas
-## Back end
-- NodeJS
-- Express
-## Front end
-- ReactJS
-- Axios
-- MaterialUI
-## Implantação em produção
-- Banco de dados: MongoDB
+![MongoDB Badge](https://img.shields.io/badge/-MongoDB-blueviolet?style=flat-square&logo=MongoDB&logoColor=white&link=#)
+![Node Badge](https://img.shields.io/badge/-Node-blueviolet?style=flat-square&logo=Node.js&logoColor=white&link=#)
+![MongoDB Badge](https://img.shields.io/badge/-Express-blueviolet?style=flat-square&logo=Express&logoColor=white&link=#)
+![React Badge](https://img.shields.io/badge/-React-blueviolet?style=flat-square&logo=React&logoColor=white&link=#)
+![Axios Badge](https://img.shields.io/badge/-Axios-blueviolet?style=flat-square&logo=Axios&logoColor=white&link=#)
+![MaterialUI Badge](https://img.shields.io/badge/-MaterialUI-blueviolet?style=flat-square&logo=MaterialUI&logoColor=white&link=#)
 
 # Como executar o projeto
 
