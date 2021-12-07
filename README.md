@@ -26,7 +26,7 @@ Pré-requisitos: NodeJS
 
 ```bash
 # clonar repositório
-git clone https://github.com/KalebeSantana/projeto-sds3
+git clone https://github.com/Micalli/Stack-MERN.git
 
 # entrar na pasta do projeto backend
 cd backend
@@ -43,7 +43,7 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/KalebeSantana/projeto-sds3
+git clone https://github.com/Micalli/Stack-MERN.git
 
 # entrar na pasta do projeto frontend 
 cd frontend
